@@ -73,6 +73,18 @@
 > **Kết quả**: Giảm 70% thời gian hỗ trợ thủ công.  
 > <p align="center"><img src="https://github.com/Manh2005HD/AI-Mobile-Robot/raw/main/robot_demo.gif" width="600" /></p>
 
+### 🏆 PHÁT TRIỂN ỨNG DỤNG IOT CHĂM SÓC SỨC KHỎE (2025 - Giải Nhì)  
+> Ứng dụng IoT tích hợp AI, chatbot và nhận diện hình ảnh hỗ trợ sức khỏe.  
+> **Công nghệ**: Java, BERT, OCR.  
+> **Kết quả**: Hỗ trợ theo dõi sức khỏe cá nhân hóa, đạt độ chính xác nhận diện văn bản 90%.  
+> <p align="center"><img src="https://github.com/Manh2005HD/HealthCare-AI/raw/main/preview.png" width="600" /></p>
+
+### 🏆 ROBOT AI PHỤ ĐẠO KIẾN THỨC CHO HỌC SINH, SINH VIÊN (Lớp 12 - Giải Nhì Khoa học Kỹ thuật Tỉnh Hải Dương)  
+> Robot hỗ trợ giảng dạy và học tập tự động cho trẻ em và sinh viên.  
+> **Công nghệ**: Raspberry Pi, CNN, NLP.  
+> **Kết quả**: Cải thiện 60% hiệu quả học tập qua tương tác tự động.  
+> <p align="center"><img src="https://github.com/Manh2005HD/AI-Tutoring-Robot/raw/main/robot_tutor.png" width="600" /></p>
+
 ---
 
 ## 📜 Chứng chỉ  
