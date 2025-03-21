@@ -66,7 +66,7 @@
   <a href="https://www.facebook.com/phan.inh.manh.529915">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://mail.google.com/mail/u/0/?ui=2#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
